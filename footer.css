@@ -1,0 +1,24 @@
+/* Footer Designed by dylan */ 
+
+footer {
+
+    background-color: #fff5d0;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footerContent {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    width: 15rem;
+}
+
+.footerButton {
+    background-color: #0f222d;
+    color: #fff5d0;
+    border-radius: 15px;
+}
+/* Footer Designed by dylan */ 

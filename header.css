@@ -1,0 +1,49 @@
+/* Home page - Done by dylan */
+
+
+.headerControl{
+    background-color: black;
+  }
+  
+  
+  
+  .companyLogo{
+    width: 22%;
+    float: left;
+  }
+  
+  header {
+    background-color: #0f222d;
+    width: 100%;
+  }
+  
+  .headerWrapper {
+    width: 100%;
+    height: 13em;
+  }
+  
+  .menu {
+    float: right;
+    width: 77%;
+    height: 100%;
+  }
+  .menu ul{
+    
+   
+    height: 10%;
+    margin-top: 9%;
+    list-style-type: none;
+  }
+    
+  .menu ul li {
+    color: #fff5d0;
+    text-align: left;
+    display: inline;
+    padding-right: 15%;
+    font-size: 120%;
+  }
+  
+  
+  
+  
+  /* end of nav bar - done by dylan */
